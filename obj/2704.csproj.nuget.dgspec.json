@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Security Software\\2704\\2704.csproj": {}
+    "D:\\Security Software\\Webapi\\Webapi\\2704.csproj": {}
   },
   "projects": {
-    "D:\\Security Software\\2704\\2704.csproj": {
+    "D:\\Security Software\\Webapi\\Webapi\\2704.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Security Software\\2704\\2704.csproj",
+        "projectUniqueName": "D:\\Security Software\\Webapi\\Webapi\\2704.csproj",
         "projectName": "2704",
-        "projectPath": "D:\\Security Software\\2704\\2704.csproj",
+        "projectPath": "D:\\Security Software\\Webapi\\Webapi\\2704.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Security Software\\2704\\obj\\",
+        "outputPath": "D:\\Security Software\\Webapi\\Webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.AspNetCore.Routing": {
               "target": "Package",
               "version": "[2.2.2, )"

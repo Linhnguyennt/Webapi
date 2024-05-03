@@ -1,54 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Security Software\\2704\\",
+  "WorkspaceRootPath": "D:\\Security Software\\Webapi\\Webapi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\models\\searchhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:models\\searchhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\2704\\models\\weatherforecastcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:models\\weatherforecastcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\controllers\\searchhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:controllers\\searchhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\repository\\weatherforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:repository\\weatherforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\dto\\weatherforecastdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:dto\\weatherforecastdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\interfaces\\iweatherforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:interfaces\\iweatherforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\dto\\searchhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:dto\\searchhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\models\\searchhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:models\\searchhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|d:\\security software\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69CECD9A-2BF4-49A7-81D6-397410F03DBE}|2704.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,170 +106,300 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Security Software\\2704\\Models\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Models\\WeatherForecast.cs",
-              "ToolTip": "D:\\Security Software\\2704\\Models\\WeatherForecast.cs",
-              "RelativeToolTip": "Models\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T06:17:59.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:23:28.116Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Security Software\\2704\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\Security Software\\2704\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Interfaces\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRoleRepository.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Interfaces\\IRoleRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRoleRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T06:17:50.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T10:13:17.286Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SearchHistory.cs",
-              "DocumentMoniker": "D:\\Security Software\\2704\\Models\\SearchHistory.cs",
-              "RelativeDocumentMoniker": "Models\\SearchHistory.cs",
-              "ToolTip": "D:\\Security Software\\2704\\Models\\SearchHistory.cs",
-              "RelativeToolTip": "Models\\SearchHistory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Repository\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RoleRepository.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Repository\\RoleRepository.cs",
+              "RelativeToolTip": "Repository\\RoleRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T06:17:44.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\Security Software\\2704\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "Models\\Role.cs",
-              "ToolTip": "D:\\Security Software\\2704\\Models\\Role.cs",
-              "RelativeToolTip": "Models\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T06:17:40.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Location.cs",
-              "DocumentMoniker": "D:\\Security Software\\2704\\Models\\Location.cs",
-              "RelativeDocumentMoniker": "Models\\Location.cs",
-              "ToolTip": "D:\\Security Software\\2704\\Models\\Location.cs",
-              "RelativeToolTip": "Models\\Location.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T06:17:37.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Security Software\\2704\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Security Software\\2704\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T06:02:22.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T10:14:31.994Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LocationController.cs",
-              "DocumentMoniker": "D:\\Security Software\\2704\\Controllers\\LocationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LocationController.cs",
-              "ToolTip": "D:\\Security Software\\2704\\Controllers\\LocationController.cs",
-              "RelativeToolTip": "Controllers\\LocationController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAADwv2UAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T03:32:14.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LocationRepository.cs",
-              "DocumentMoniker": "D:\\Security Software\\2704\\Repository\\LocationRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\LocationRepository.cs",
-              "ToolTip": "D:\\Security Software\\2704\\Repository\\LocationRepository.cs",
-              "RelativeToolTip": "Repository\\LocationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T03:24:18.526Z",
+              "WhenOpened": "2024-04-29T10:16:51.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ILocationRepository.cs",
-              "DocumentMoniker": "D:\\Security Software\\2704\\Interfaces\\ILocationRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ILocationRepository.cs",
-              "ToolTip": "D:\\Security Software\\2704\\Interfaces\\ILocationRepository.cs",
-              "RelativeToolTip": "Interfaces\\ILocationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocationController.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "Controllers\\LocationController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswCgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T03:22:38.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T03:32:14.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Repository\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\LocationRepository.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Repository\\LocationRepository.cs",
+              "RelativeToolTip": "Repository\\LocationRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:24:18.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAUwIAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:02:22.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchHistoryController.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Controllers\\SearchHistoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SearchHistoryController.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Controllers\\SearchHistoryController.cs",
+              "RelativeToolTip": "Controllers\\SearchHistoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:23:49.078Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Security Software\\2704\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Security Software\\2704\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAsAAAAyAAAA",
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Models\\Location.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Models\\Location.cs",
+              "RelativeToolTip": "Models\\Location.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T03:16:03.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T06:17:37.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WeatherForecastContext.cs",
-              "DocumentMoniker": "D:\\Security Software\\2704\\Models\\WeatherForecastContext.cs",
-              "RelativeDocumentMoniker": "Models\\WeatherForecastContext.cs",
-              "ToolTip": "D:\\Security Software\\2704\\Models\\WeatherForecastContext.cs",
-              "RelativeToolTip": "Models\\WeatherForecastContext.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvxIAAAAwAAAA",
+              "DocumentIndex": 10,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Dto\\RoleDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RoleDto.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Dto\\RoleDto.cs",
+              "RelativeToolTip": "Dto\\RoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T03:15:34.425Z"
+              "WhenOpened": "2024-04-29T10:47:07.381Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "WeatherForecastRepository.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Repository\\WeatherForecastRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\WeatherForecastRepository.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Repository\\WeatherForecastRepository.cs",
+              "RelativeToolTip": "Repository\\WeatherForecastRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:10:00.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:17:40.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:05:10.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastDto.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Dto\\WeatherForecastDto.cs",
+              "RelativeDocumentMoniker": "Dto\\WeatherForecastDto.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Dto\\WeatherForecastDto.cs",
+              "RelativeToolTip": "Dto\\WeatherForecastDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:22:31.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Interfaces\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILocationRepository.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Interfaces\\ILocationRepository.cs",
+              "RelativeToolTip": "Interfaces\\ILocationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:22:38.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IWeatherForecastRepository.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Interfaces\\IWeatherForecastRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IWeatherForecastRepository.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Interfaces\\IWeatherForecastRepository.cs",
+              "RelativeToolTip": "Interfaces\\IWeatherForecastRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:59:32.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Helper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Helper\\MappingProfiles.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Helper\\MappingProfiles.cs",
+              "RelativeToolTip": "Helper\\MappingProfiles.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:49:37.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherForecast.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "Models\\WeatherForecast.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:17:59.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SearchHistory.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Models\\SearchHistory.cs",
+              "RelativeDocumentMoniker": "Models\\SearchHistory.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Models\\SearchHistory.cs",
+              "RelativeToolTip": "Models\\SearchHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:17:44.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LocationDto.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Dto\\LocationDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LocationDto.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Dto\\LocationDto.cs",
+              "RelativeToolTip": "Dto\\LocationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:20:45.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:21:00.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchHistoryDto.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Dto\\SearchHistoryDto.cs",
+              "RelativeDocumentMoniker": "Dto\\SearchHistoryDto.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Dto\\SearchHistoryDto.cs",
+              "RelativeToolTip": "Dto\\SearchHistoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:21:26.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:16:03.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Security Software\\2704\\appsettings.json",
+              "DocumentMoniker": "D:\\Security Software\\Webapi\\Webapi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Security Software\\2704\\appsettings.json",
+              "ToolTip": "D:\\Security Software\\Webapi\\Webapi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-27T03:09:09.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T03:09:09.83Z"
             }
           ]
         }
